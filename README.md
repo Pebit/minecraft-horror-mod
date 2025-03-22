@@ -20,3 +20,4 @@
 8.	As a streamer, I want jump scares and psychological horror elements so that my audience stays engaged.
 9.	As a casual player, I want an option to adjust horror intensity so that I can control how scared I get.
 10.	As a griefed player, I want unsettling changes to my builds so that I feel like something is always watching me.
+![](https://github.com/Pebit/minecraft-horror-mod/blob/main/docs/backlog_creation.png)
